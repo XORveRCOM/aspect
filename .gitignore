@@ -2,4 +2,9 @@
 *.json
 *.zipping
 *.log
-/zip/*
+*.exe
+zip/*
+cmd/__debug_bin.*
+
+/out/*
+/doc/*
