@@ -1,10 +1,10 @@
 *.zip
-*.json
 *.zipping
 *.log
 *.exe
 zip/*
-cmd/__debug_bin.*
+__debug_bin.*
 
-/out/*
+out/*
 /doc/*
+/.vscode
